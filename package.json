@@ -12,6 +12,7 @@
     "test": "npm run unit && npm run e2e",
     "build": "node build/build.js",
     "push": "node build/shell.js"
+    
   },
   "dependencies": {
     "element-ui": "^2.10.0",

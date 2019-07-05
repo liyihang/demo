@@ -48,7 +48,7 @@
             <strong v-if="allDatas.onoffStatus == 2" style="color:gray">离线</strong>
           </li>
           <li>
-            <span>绑定网关：</span>
+            <span>绑定网关123：</span>
             <strong>{{allDatas.gatewayUuid}}</strong>
           </li>
         </ul>
